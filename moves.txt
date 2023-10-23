@@ -1,0 +1,4 @@
+indicar coordenadas inicales y del recorrido 
+si durnate los movimientos alguno no es valido debe retroceder hasta encontra una posicion donde sea valido 
+para poder continuar el recorrido
+el caballo solo se mueve en L 
